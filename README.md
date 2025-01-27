@@ -55,14 +55,6 @@ Segmented customers into distinct clusters using KMeans.
 Evaluated clustering quality using the Davies-Bouldin Index (DB Index) and silhouette scores.
 
 Visualized clusters using PCA to understand group differences.
-
-How to Use
-
-Clone this repository:
-
-git clone https://github.com/your-repo/ecommerce-analysis.git
-cd ecommerce-analysis
-
 Install the required Python packages:
 
 pip install -r requirements.txt
